@@ -1,6 +1,6 @@
 # course_planner
 
-Lab work for Web (VUE.js) [KPI]
+Lab work №3 for Web (VUE.js) [KPI]
 
 
 
